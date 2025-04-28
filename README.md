@@ -11,8 +11,6 @@ La **Authentication API** permite a los usuarios **registrarse** e **iniciar ses
 - Clean Architecture (Separación de capas: Entities, DTOs, Repository, Application)
 - SQL Server (para persistencia de datos)
 - JWT Bearer Authentication (generación y validación de tokens)
-- Unit Testing con xUnit y FakeItEasy (pruebas con dependencias mockeadas)
-- Ocelot API Gateway (para enrutamiento general de APIs en el proyecto completo)
 
 ## Funcionalidades principales
 
